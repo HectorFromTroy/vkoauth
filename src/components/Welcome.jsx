@@ -3,7 +3,7 @@ import React from "react";
 const Welcome = props => {
   //because if leave it with /#/ then vk api will MAYBE think that 
   //i'm trying to access via server and will send me code instead of access tokken
-  const CURRENT_LOCATION = window.location.href;
+  const CURRENT_LOCATION = window.location.href.substring(0, window.location.href.length - 3);
   return (
     <div className="welcome">
       <h1>Добро пожаловать</h1>
