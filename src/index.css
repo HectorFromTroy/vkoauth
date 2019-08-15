@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 10px;
 }
 
 code {
@@ -71,4 +72,19 @@ ul{
 
 .first-name{
   margin-right: 5px;
+}
+
+@media (max-width: 625px){
+  .profile-main{
+    flex-flow: column;
+  }
+  .profile-info-container, .friends-info-container{
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 375px){
+  html{
+    font-size: 10px;
+  }
 }
