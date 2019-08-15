@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vkoauth/static/css/main.48b03ce8.chunk.css",
-    "main.js": "/vkoauth/static/js/main.a0a32118.chunk.js",
-    "main.js.map": "/vkoauth/static/js/main.a0a32118.chunk.js.map",
+    "main.js": "/vkoauth/static/js/main.b8da5b1c.chunk.js",
+    "main.js.map": "/vkoauth/static/js/main.b8da5b1c.chunk.js.map",
     "runtime~main.js": "/vkoauth/static/js/runtime~main.61a04880.js",
     "runtime~main.js.map": "/vkoauth/static/js/runtime~main.61a04880.js.map",
     "static/js/2.0d8a2bc3.chunk.js": "/vkoauth/static/js/2.0d8a2bc3.chunk.js",
     "static/js/2.0d8a2bc3.chunk.js.map": "/vkoauth/static/js/2.0d8a2bc3.chunk.js.map",
     "index.html": "/vkoauth/index.html",
-    "precache-manifest.fb6ba583254b08f787cbc605621b8912.js": "/vkoauth/precache-manifest.fb6ba583254b08f787cbc605621b8912.js",
+    "precache-manifest.98728816149425770943c81a584fede9.js": "/vkoauth/precache-manifest.98728816149425770943c81a584fede9.js",
     "service-worker.js": "/vkoauth/service-worker.js",
     "static/css/main.48b03ce8.chunk.css.map": "/vkoauth/static/css/main.48b03ce8.chunk.css.map"
   }
